@@ -1,0 +1,4 @@
+/.docker
+/.react-router
+/dist
+/node_modules
